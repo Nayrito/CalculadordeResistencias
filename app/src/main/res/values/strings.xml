@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Calculador de Resistencias</string>
+    <string name="calcular">Calcular:</string>
+    <string name="_0">0 Ω</string>
+    <string-array name="banda1">
+        <item>Banda1</item>
+        <item>Negro</item>
+        <item>Marron</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Purpura</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </string-array>
+    <string-array name="banda2">
+        <item>Banda2</item>
+        <item>Negro</item>
+        <item>Marron</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Purpura</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </string-array>
+    <string-array name="banda3">
+        <item>Banda3</item>
+        <item>Negro</item>
+        <item>Marron</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Dorado</item>
+        <item>Plateado</item>
+    </string-array>
+    <string-array name="banda4">
+        <item>Banda4</item>
+        <item>Marron</item>
+        <item>Rojo</item>
+        <item>Dorado</item>
+        <item>Plateado</item>
+    </string-array>
+</resources>
